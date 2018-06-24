@@ -1,2 +1,2 @@
 # Java
-All my Java programs i have created so far.
+Here is a list of all my Java projects.
